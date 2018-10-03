@@ -29,5 +29,5 @@ int main(){
       }
     }
 
-  std::cout << solutions << std::endl; // print number if solutions found
+  std::cout << solutions << std::endl; // print number of solutions found
 }
